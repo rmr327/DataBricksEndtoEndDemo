@@ -1,4 +1,4 @@
-# Databricks End to End Demo with PySpark
+# Databricks End to End Demo
 ### by Rakeen Rouf
 
 [![PythonCiCd](https://github.com/rmr327/DataBricksEndtoEndDemo/actions/workflows/python_ci_cd.yml/badge.svg)](https://github.com/rmr327/DataBricksEndtoEndDemo/actions/workflows/python_ci_cd.yml)
