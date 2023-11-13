@@ -12,6 +12,8 @@ The project also highlights that Databricks recommends using the declarative int
 
 Overall, the project serves as a good starting point for those looking to learn about data pipelines and how to implement them in Azure Databricks.
 
+** Done by following instruction guide from data bricks.
+
 ---
 
 ## **The complete workflow pipeline**
